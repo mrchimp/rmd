@@ -1,3 +1,8 @@
+
+# THIS PACKAGE IS DEPRECATED #
+
+That didn't take long! `rmd` is dangerously close to `rm` and I don't want to be responsible for people deleting stuff accidentally, so I've moved this project to [mdr](https://github.com/mrchimp/mdr). Sorry for any inconvenience!
+
 # rmd #
 
 Display markdown files in color.
